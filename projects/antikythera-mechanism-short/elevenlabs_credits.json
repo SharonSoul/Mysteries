@@ -1,0 +1,46 @@
+{
+  "project_id": "antikythera-mechanism-short",
+  "timestamp": "2026-11-19T08:49:24.155435",
+  "voice_id": "NOpBlnGInO9m6vDvFkFC",
+  "model_id": "eleven_multilingual_v2",
+  "total_scenes": 5,
+  "total_characters": 1071,
+  "total_estimated_credits": 1071,
+  "scene_breakdown": [
+    {
+      "scene_id": "SCENE_01",
+      "text": "In 1900, Greek sponge divers pulled a corroded lump of bronze from an ancient shipwreck. Hidden inside was an analog computer so advanced, modern science didn't believe the Greeks could build it until CT scans proved it in 2006.",
+      "character_count": 228,
+      "credits_consumed": 228,
+      "audio_file": "projects\\antikythera-mechanism-short\\audio\\scene_01.mp3"
+    },
+    {
+      "scene_id": "SCENE_02",
+      "text": "Found off the island of Antikythera, this machine was built over 2,100 years ago. Inside its calcified shell were more than thirty interlocking bronze gears with precision triangular teeth\u2014a level of engineering history textbooks claimed didn't exist until 14th-century European clocks.",
+      "character_count": 286,
+      "credits_consumed": 286,
+      "audio_file": "projects\\antikythera-mechanism-short\\audio\\scene_02.mp3"
+    },
+    {
+      "scene_id": "SCENE_03",
+      "text": "It wasn't a timepiece. By turning a hand crank, it calculated solar eclipses decades in advance, tracked the Olympic Games, and used an epicyclic pin-and-slot gear train to replicate the elliptical speed of the moon.",
+      "character_count": 216,
+      "credits_consumed": 216,
+      "audio_file": "projects\\antikythera-mechanism-short\\audio\\scene_03.mp3"
+    },
+    {
+      "scene_id": "SCENE_04",
+      "text": "Over 3,500 ancient Greek characters were engraved across its bronze plates, acting as a complete user manual. It wasn't built by aliens or myth. It was Hellenistic genius.",
+      "character_count": 171,
+      "credits_consumed": 171,
+      "audio_file": "projects\\antikythera-mechanism-short\\audio\\scene_04.mp3"
+    },
+    {
+      "scene_id": "SCENE_05",
+      "text": "Which leaves one haunting question: If humanity built a mechanical computer in 100 BC... where would our world be today if this technology had never been lost to the sea?",
+      "character_count": 170,
+      "credits_consumed": 170,
+      "audio_file": "projects\\antikythera-mechanism-short\\audio\\scene_05.mp3"
+    }
+  ]
+}

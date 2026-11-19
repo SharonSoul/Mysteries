@@ -1,0 +1,15 @@
+# Autonomous Documentary Studio Dependencies
+# Core Production Tools
+requests>=2.31.0
+python-dotenv>=1.0.0
+pydantic>=2.0.0
+Pillow>=10.0.0
+
+# Voice Generation (ElevenLabs - only paid external service)
+elevenlabs>=1.0.0
+
+# Speech-to-Text & Subtitles (Local Whisper Standard)
+faster-whisper>=1.0.0
+
+# Development & Testing
+pytest>=8.0.0

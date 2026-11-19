@@ -1,0 +1,54 @@
+{
+  "project_id": "antikythera-mechanism-short",
+  "title": "The 2,000-Year-Old Astronomical Computer",
+  "format": "shorts",
+  "aspect_ratio": "9:16",
+  "total_scenes": 5,
+  "scenes": [
+    {
+      "scene_id": "SCENE_01",
+      "chapter": "The 1900 Sponge Diver Discovery",
+      "timecode_start": "00:00",
+      "estimated_duration_seconds": 12.0,
+      "visual_direction": "Dark Aegean sea water dissolving to archival photograph of 1900 Symi sponge divers, then slow push-in onto the corroded green bronze lump of Fragment A.",
+      "narration_text": "In 1900, Greek sponge divers pulled a corroded lump of bronze from an ancient shipwreck. Hidden inside was an analog computer so advanced, modern science didn't believe the Greeks could build it until CT scans proved it in 2006.",
+      "sound_design": "Deep subaquatic rumble and bubbles, cutting abruptly to a heavy mechanical sub-bass impact as the bronze fragment appears."
+    },
+    {
+      "scene_id": "SCENE_02",
+      "chapter": "The Impossible Internal Gears",
+      "timecode_start": "00:12",
+      "estimated_duration_seconds": 14.0,
+      "visual_direction": "Macro close-up of visible gear teeth on Fragment A, dissolving into high-contrast 3D microfocus X-ray CT scan revealing over 30 internal interlocking gear wheels.",
+      "narration_text": "Found off the island of Antikythera, this machine was built over 2,100 years ago. Inside its calcified shell were more than thirty interlocking bronze gears with precision triangular teeth—a level of engineering history textbooks claimed didn't exist until 14th-century European clocks.",
+      "sound_design": "Subtle, rhythmic antique clockwork ticking layered over a low ambient mystery pad."
+    },
+    {
+      "scene_id": "SCENE_03",
+      "chapter": "Calculating the Cosmos",
+      "timecode_start": "00:26",
+      "estimated_duration_seconds": 14.0,
+      "visual_direction": "Modern mechanical CAD reconstruction of the front and back dials: Saros eclipse spiral, zodiac calendar, and lunar phase sphere.",
+      "narration_text": "It wasn't a timepiece. By turning a hand crank, it calculated solar eclipses decades in advance, tracked the Olympic Games, and used an epicyclic pin-and-slot gear train to replicate the elliptical speed of the moon.",
+      "sound_design": "Harmonic celestial chime, metallic gear engagement clicks syncing with the eclipse spiral animation."
+    },
+    {
+      "scene_id": "SCENE_04",
+      "chapter": "The 3,500 Character Manual",
+      "timecode_start": "00:40",
+      "estimated_duration_seconds": 12.0,
+      "visual_direction": "Close-up of the ancient Greek inscriptions engraved into the bronze casing doors, highlighting Greek astronomical letters under raking light.",
+      "narration_text": "Over 3,500 ancient Greek characters were engraved across its bronze plates, acting as a complete user manual. It wasn't built by aliens or myth. It was Hellenistic genius.",
+      "sound_design": "Ambient music drops to near-silence for vocal clarity, punctuated by a crisp metallic chime on 'Hellenistic genius'."
+    },
+    {
+      "scene_id": "SCENE_05",
+      "chapter": "The Lost Century",
+      "timecode_start": "00:52",
+      "estimated_duration_seconds": 11.0,
+      "visual_direction": "Full 3D digital model of the complete reconstructed Antikythera Mechanism spinning against celestial starfield, slowly fading down into the abyss of the sea.",
+      "narration_text": "Which leaves one haunting question: If humanity built a mechanical computer in 100 BC... where would our world be today if this technology had never been lost to the sea?",
+      "sound_design": "Deep swelling atmospheric cello, rising mystery drone, ending on a hollow ocean wind fade."
+    }
+  ]
+}

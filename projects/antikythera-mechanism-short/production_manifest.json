@@ -1,0 +1,60 @@
+{
+  "project_id": "antikythera-mechanism-short",
+  "title": "The Antikythera Mechanism: The 2,000-Year-Old Astronomical Computer",
+  "channel": "mysteries-unexplained-history",
+  "format": "shorts",
+  "aspect_ratio": "9:16",
+  "target_resolution": "1080x1920",
+  "target_framerate": 30,
+  "created_at": "2026-11-19T08:39:00",
+  "stages": {
+    "research": "completed",
+    "fact_checking": "completed",
+    "scriptwriting": "completed",
+    "storyboard": "completed",
+    "media_discovery": "completed",
+    "licensing_verification": "completed",
+    "narration": "completed",
+    "whisper_subtitles": "completed",
+    "video_assembly": "completed",
+    "thumbnail_creation": "completed",
+    "metadata_packaging": "completed",
+    "quality_control": "completed",
+    "human_approval": "pending_user_decision"
+  },
+  "deliverables": {
+    "research_dossier": "projects/antikythera-mechanism-short/research_dossier.md",
+    "fact_check_ledger": "projects/antikythera-mechanism-short/fact_check_ledger.md",
+    "final_script": "projects/antikythera-mechanism-short/final_script.md",
+    "script_json": "projects/antikythera-mechanism-short/script.json",
+    "storyboard": "projects/antikythera-mechanism-short/storyboard.md",
+    "licensing_records": "projects/antikythera-mechanism-short/licensing_records.json",
+    "licensing_report": "projects/antikythera-mechanism-short/licensing_report.md",
+    "narration_audio": "projects/antikythera-mechanism-short/audio/final_narration.mp3",
+    "mastered_audio": "projects/antikythera-mechanism-short/audio/mastered_audio.m4a",
+    "credit_consumption": "projects/antikythera-mechanism-short/elevenlabs_credits.json",
+    "whisper_transcription": "projects/antikythera-mechanism-short/subtitles/whisper_transcription.json",
+    "subtitles_srt": "projects/antikythera-mechanism-short/subtitles/subtitles.srt",
+    "thumbnail_landscape": "projects/antikythera-mechanism-short/thumbnail_1280x720.jpg",
+    "thumbnail_vertical": "projects/antikythera-mechanism-short/thumbnail_shorts_1080x1920.jpg",
+    "youtube_metadata_md": "projects/antikythera-mechanism-short/youtube_metadata.md",
+    "youtube_metadata_json": "projects/antikythera-mechanism-short/youtube_metadata.json",
+    "rendered_video": "projects/antikythera-mechanism-short/video/antikythera_mechanism_short.mp4",
+    "exported_video": "exports/antikythera_mechanism_short.mp4"
+  },
+  "credits_summary": {
+    "provider": "ElevenLabs",
+    "voice_id": "NOpBlnGInO9m6vDvFkFC",
+    "model_id": "eleven_multilingual_v2",
+    "total_characters_consumed": 1071,
+    "total_estimated_credits": 1071
+  },
+  "whisper_summary": {
+    "provider": "local faster-whisper",
+    "model": "base",
+    "device": "cpu",
+    "compute_type": "int8",
+    "cues_generated": 36,
+    "review_status": "manually_verified"
+  }
+}

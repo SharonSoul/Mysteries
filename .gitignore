@@ -1,0 +1,57 @@
+# Python artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Secrets and credentials - NEVER COMMIT
+.env
+.env.local
+.env.*.local
+*.pem
+*.key
+
+# Application data & caches
+.pytest_cache/
+logs/*.log
+incoming/*
+!incoming/.gitkeep
+backups/*
+!backups/.gitkeep
+exports/*
+!exports/.gitkeep
+
+# Project local media caches & intermediate renders (to keep git lightweight)
+projects/*/media/
+projects/*/exports/
+projects/*/video/*_clip.mp4
+projects/*/video/video_assembled_raw.mp4
+projects/*/audio/*.wav
+projects/*/audio/*_list.txt
+projects/*/video/*_list.txt
+media-library/images/cache/
+
+# System and IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
